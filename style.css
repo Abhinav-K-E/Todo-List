@@ -41,6 +41,7 @@ form{
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     max-width: 100%;
     width: 400px;
+    overflow: hidden;
 }
 
 .input{
@@ -64,6 +65,7 @@ form{
     margin: 0;
     padding: 0;
     background-color: #fff;
+    max-height: 200px;
     list-style: none;
     overflow-y: auto;
 }
